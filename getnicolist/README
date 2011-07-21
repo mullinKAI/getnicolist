@@ -1,1 +1,4 @@
 ニコニコのマイリストIDをカンマ区切りで複数渡すとリストにしてくれるやつ
+sample URL:
+http://localhost/getnicolist/getnicolist.php?mylist=aaa,bbb,ccc
+aaa と bbb と ccc はマイリストID（数字のみ）。
